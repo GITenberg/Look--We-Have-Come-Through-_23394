@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/123
     wikipedia: http://en.wikipedia.org/wiki/D._H._Lawrence
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23394#Look--We-Have-Come-Through-
 gutenberg_issued: '2007-11-07'
 gutenberg_type: Text
 identifiers:
